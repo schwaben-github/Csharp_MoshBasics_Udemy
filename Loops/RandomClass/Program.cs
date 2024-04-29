@@ -10,6 +10,3 @@ for (int i = 0; i < passwordLenght; i++)
     var password = new string(buffer);
 
     Console.WriteLine(password);
-}
-
-// Just for testing purposes
